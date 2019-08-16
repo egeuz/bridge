@@ -50,10 +50,12 @@ const playAudio = () => {
 const questionArray = [
   "Why do people become addicted to things?",
   "In our globalized world, are nations and borders still necessary?",
-  "Which one is more important, nature or nurture?",
+  "What do you think matters more, nature or nurture?",
   "Is the world too populated?",
-  "Lorem ipsum dolor sit amet?",
-  "Consectetur adipiscing elit?"
+  "Is going to university important to become successful?",
+  "Should daylight savings time be abolished?",
+  "Should military service be mandatory?",
+  "Should pets be allowed in public spaces?"
 ];
 
 //Randomly generate a question on launch
